@@ -1,4 +1,10 @@
-## Hi there 👋
+# Eu sou o Pedro! 🫡
+### _Aluno da instituição **SENAI**, responsável pela formação de diversoss funcionários capacitados e competentes_ 
+
+## Competências:
+- 👾 Java
+- 🗒️Banco de Dados SQL
+
 
 <!--
 **quintin0p/quintin0p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
