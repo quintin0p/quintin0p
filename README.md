@@ -1,5 +1,5 @@
 # Eu sou o Pedro! 🫡
-### _Aluno da instituição **SENAI**, responsável pela formação de diversoss funcionários capacitados e competentes_ 
+### _Aluno da instituição **SENAI**, instituição responsável pela formação de diversoss funcionários capacitados e competentes_ 
 
 ## Competências:
 - 👾 Java
