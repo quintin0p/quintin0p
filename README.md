@@ -23,7 +23,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=263c32" width="70%" />
 
   <h3> Spoken Languages: </h3>
-  `• PORTUGUESE (Native Language) | ENGLISH (Intermediary)`
+  • PORTUGUESE (Native Language) | ENGLISH (Intermediary)
 
   <sub>© 2026 Pedro Luís Quintino</sub>
 
