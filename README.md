@@ -27,7 +27,7 @@
   &nbsp; | &nbsp;
   <mark>ENGLISH</mark> <b>Intermediate</b>
 
-  <br><br>
+  <br>
 
   <sub>© 2026 Pedro Luís Quintino</sub>
 
