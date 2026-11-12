@@ -24,6 +24,6 @@
 
   `BUILD • BREAK • LEARN • REPEAT`
 
-  <sub>© 2026 Pedro Luís</sub>
+  <sub>© 2026 Pedro Luís Quintino</sub>
 
 </div>
