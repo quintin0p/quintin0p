@@ -22,7 +22,8 @@
 
   <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=263c32" width="70%" />
 
-  `BUILD • BREAK • LEARN • REPEAT`
+  ###languages:
+  `• PORTUGUESE • ENGLISH`
 
   <sub>© 2026 Pedro Luís Quintino</sub>
 
