@@ -22,8 +22,13 @@
 
   <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=263c32" width="70%" />
 
-  <span style="background-color: #263c32; color: white;">PORTUGUESE</span>
-(<span style="color: #8EB69B;">Native Language</span>)
+ <h3>Spoken Languages:</h3>
+
+<div align="center">
+  <mark>PORTUGUESE</mark> <b>Native</b>
+  &nbsp; | &nbsp;
+  <mark>ENGLISH</mark> <b>Intermediate</b>
+</div>
 
 </div>
   <sub>© 2026 Pedro Luís Quintino</sub>
