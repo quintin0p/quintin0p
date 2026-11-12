@@ -21,11 +21,11 @@
 
   <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=263c32" width="70%" />
 
-  <h3>Spoken Languages</h3>
+  <h3>Spoken Languages:</h3>
 
-  <mark>PORTUGUESE</mark> <b>Native</b>
+  <mark>PORTUGUESE</mark> - <b>Native</b>
   &nbsp; | &nbsp;
-  <mark>ENGLISH</mark> <b>Intermediate</b>
+  <mark>ENGLISH</mark> - <b>Intermediate</b>
 
   <br>
 
