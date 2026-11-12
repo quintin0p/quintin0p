@@ -31,6 +31,6 @@
 </div>
 
 </div>
-  <sub>© 2026 Pedro Luís Quintino</sub>
+  <sub> © 2026 Pedro Luís Quintino</sub>
 
 </div>
