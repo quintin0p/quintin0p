@@ -1,7 +1,4 @@
-
-
-
-<div align="center">
+ <div align="center">
   
   <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:101820,100:263c32&text=PEDRO%20LUIS%20QUINTINO&fontColor=ffffff&fontSize=55&fontAlignY=45&desc=DEVELOPER%20IN%20PROGRESS&descAlignY=65&descSize=15" width="100%" />
 
@@ -18,19 +15,20 @@
 
 </div>
 
+---
+
 <div align="center">
 
   <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=263c32" width="70%" />
 
- <h3>Spoken Languages:</h3>
+  <h3>Spoken Languages</h3>
 
-<div align="center">
   <mark>PORTUGUESE</mark> <b>Native</b>
   &nbsp; | &nbsp;
   <mark>ENGLISH</mark> <b>Intermediate</b>
-</div>
 
-</div>
-  <sub> © 2026 Pedro Luís Quintino</sub>
+  <br><br>
+
+  <sub>© 2026 Pedro Luís Quintino</sub>
 
 </div>
