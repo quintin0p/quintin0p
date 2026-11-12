@@ -1,5 +1,5 @@
 
-# Pedro Luís Quintino Ribeiro
+
 
 <div align="center">
   
@@ -12,51 +12,14 @@
 
 </div>
 
----
-
-## `~/about-me`
-
-```java
-public class Pedro {
-    String name = "Pedro Luís";
-    String education = "Systems Analysis and Development";
-    String institution = "SENAI";
-
-    String[] interests = {
-        "Software Development",
-        "Programming",
-        "Database Systems",
-        "Web Development"
-    };
-}
-```
 
 ## `~/technologies`
 
 <div align="center">
   
-  <img src="https://skillicons.dev/icons?i=java,mysql,html,css,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mysql,html,css,git,github&theme=dark" />
 
 </div>
-
-## `~/projects`
-
-Projetos acadêmicos, aplicações e experimentos desenvolvidos durante minha formação no SENAI.
-
-| Projeto | Tecnologia | Descrição |
-|:---|:---:|:---|
-| Projetos Java | Java | Programação e POO |
-| Banco de Dados | SQL | Consultas e modelagem |
-| Desenvolvimento Web | HTML / CSS | Estrutura e estilização |
-
-## `~/currently-learning`
-
-- Object-Oriented Programming
-- Database Management
-- Front-end Development
-- Software Engineering
-
----
 
 <div align="center">
 
