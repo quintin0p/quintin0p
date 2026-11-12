@@ -10,9 +10,6 @@
 
 </div>
 
-
-## `~/technologies`
-
 <div align="center">
   
   <img src="https://skillicons.dev/icons?i=mysql,html,css,git,github&theme=dark" />
